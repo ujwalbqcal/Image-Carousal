@@ -4,7 +4,7 @@ var imagewrapper = document.getElementById('image-wrapper');
 var previousButton = document.getElementById('previous');
 var nextButton = document.getElementById('next');
 var first = document.getElementById('first');
-var fseconf = document.getElementById('second');
+var second = document.getElementById('second');
 var third = document.getElementById('third');
 var fourth = document.getElementById('fourth');
 
